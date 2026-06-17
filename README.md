@@ -1,4 +1,4 @@
-# Tu cuerpo me llama
+# Tu cuerpo me llama, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu cuerpo me llama |
+| **Title** | Tu cuerpo me llama, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-me-llama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu cuerpo me llama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-llama/) |
+| **Get License** | [Music Rights & Licensing for Tu cuerpo me llama, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-llama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo me llama, baby, dime qué va a ser
+> Son las tres de la mañana y te quiero comer
+> Tienes ese veneno, un flow de alto nivel
+> Bailando en lo oscuro, rozándome la piel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `849865753249938a89d8bc4d36330fd075b02cf35834fc04a934a05d5beff312` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

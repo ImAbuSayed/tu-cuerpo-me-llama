@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo me llama, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo me llama, Vol. 2** (tu-cuerpo-me-llama-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:31:17.400155 | `v1` | `849865753249938a89d8bc4d36330fd075b02cf35834fc04a934a05d5beff312` | `313b9a8ba5ce2949bdbc376298d2412590d15d9eea4a0ed7d1813a5805d9d2be` | `2026-06-17_tu-cuerpo-me-llama-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
